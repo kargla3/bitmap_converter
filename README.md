@@ -16,8 +16,15 @@ This program exports DLLs with the same implementation written in Assembly and C
 - 240x320 TFT ILI9341
 
 4. Example
+
+After loading image, choose your display and format
+
 ![Description](images/sample.jpg)
 
+Then press execute to run convertion
+
 ![Desctiption](images/sample_result.jpg)
+
+Result on the display
 
 ![Description](images/sample_result_display.jpg.png)
