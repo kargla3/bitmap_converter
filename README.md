@@ -17,14 +17,15 @@ This program exports DLLs with the same implementation written in Assembly and C
 
 4. Example
 
-After loading image, choose your display and format
+After loading image, choose your display and format, 
+Then press one of the buttons "execute"
 
 ![Description](images/sample.jpg)
 
-Then press execute to run convertion
+As the result, image is displayed in seperate window with button copy, so that the whole content is copied
 
 ![Desctiption](images/sample_result.jpg)
 
 Result on the display
 
-![Description](images/sample_result_display.jpg.png)
+![Description](images/sample_result_display.jpg)
