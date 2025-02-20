@@ -1,0 +1,10 @@
+C:\Users\Karoo\Robocze\BitmapConverter\BitmapConverter\bin\Release\BitmapConverter.exe.config
+C:\Users\Karoo\Robocze\BitmapConverter\BitmapConverter\bin\Release\BitmapConverter.exe
+C:\Users\Karoo\Robocze\BitmapConverter\BitmapConverter\bin\Release\BitmapConverter.pdb
+C:\Users\Karoo\Robocze\BitmapConverter\BitmapConverter\obj\Release\BitmapConverter.csproj.AssemblyReference.cache
+C:\Users\Karoo\Robocze\BitmapConverter\BitmapConverter\obj\Release\BitmapConverter.Form1.resources
+C:\Users\Karoo\Robocze\BitmapConverter\BitmapConverter\obj\Release\BitmapConverter.Properties.Resources.resources
+C:\Users\Karoo\Robocze\BitmapConverter\BitmapConverter\obj\Release\BitmapConverter.csproj.GenerateResource.cache
+C:\Users\Karoo\Robocze\BitmapConverter\BitmapConverter\obj\Release\BitmapConverter.csproj.CoreCompileInputs.cache
+C:\Users\Karoo\Robocze\BitmapConverter\BitmapConverter\obj\Release\BitmapConverter.exe
+C:\Users\Karoo\Robocze\BitmapConverter\BitmapConverter\obj\Release\BitmapConverter.pdb

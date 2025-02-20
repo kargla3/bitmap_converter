@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Katalog Output nie kończy się ukośnikiem. To wystąpienie kompilacji doda ukośnik, ponieważ jest on niezbędny, aby możliwa była poprawna ocena katalogu Output.
+  pch.cpp
+  dllmain.cpp
+  MyDLL.cpp
+C:\Users\Karoo\Robocze\BitmapConverter\BITMAP_DLL_CPP\MyDLL.cpp(16,24): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „/MyDLL.cpp”)
+  
+C:\Users\Karoo\Robocze\BitmapConverter\BITMAP_DLL_CPP\MyDLL.cpp(17,24): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „/MyDLL.cpp”)
+  
+  Generowanie kodu...
+  BITMAP_DLL_CPP.vcxproj -> C:\Users\Karoo\Robocze\BitmapConverter\BitmapConverter\bin\Debug\BITMAP_DLL_CPP.dll
