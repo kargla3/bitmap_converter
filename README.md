@@ -15,7 +15,7 @@ This program exports DLLs with the same implementation written in Assembly and C
 - 128x160 TFT ST7735
 - 240x320 TFT ILI9341
 
-4. Example
+3. Example
 
 After loading image, choose your display and format, 
 Then press one of the buttons "execute"
